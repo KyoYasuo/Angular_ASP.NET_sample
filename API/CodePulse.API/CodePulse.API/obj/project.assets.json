@@ -3349,11 +3349,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Trainning\\Angular_ASP\\Udemy\\API\\CodePulse.API\\CodePulse.API\\CodePulse.API.csproj",
+      "projectUniqueName": "E:\\Trainning\\Angular_ASP\\Udemy\\Angular_ASP.NET_sample\\API\\CodePulse.API\\CodePulse.API\\CodePulse.API.csproj",
       "projectName": "CodePulse.API",
-      "projectPath": "E:\\Trainning\\Angular_ASP\\Udemy\\API\\CodePulse.API\\CodePulse.API\\CodePulse.API.csproj",
+      "projectPath": "E:\\Trainning\\Angular_ASP\\Udemy\\Angular_ASP.NET_sample\\API\\CodePulse.API\\CodePulse.API\\CodePulse.API.csproj",
       "packagesPath": "C:\\Users\\EPower\\.nuget\\packages\\",
-      "outputPath": "E:\\Trainning\\Angular_ASP\\Udemy\\API\\CodePulse.API\\CodePulse.API\\obj\\",
+      "outputPath": "E:\\Trainning\\Angular_ASP\\Udemy\\Angular_ASP.NET_sample\\API\\CodePulse.API\\CodePulse.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 23.1\\Components\\Offline Packages",

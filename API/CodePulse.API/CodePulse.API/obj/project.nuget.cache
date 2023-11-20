@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aRbdEbtUiYGW/a/S1rdNZhgMNIspdHyWrbSP3JAo0d1AJdjnkOFNcJRVfr1lUmOIMfnM3DM+7ilpNq2UOhBdog==",
+  "dgSpecHash": "zRVWj9PfbL4wcdyd4JvRuX5D0+lVXLMxpcheQsbJEOO6WFCgxUSq2N++guzl3VfoTXYL4DJc+GTtCdJgzLKgCg==",
   "success": true,
-  "projectFilePath": "E:\\Trainning\\Angular_ASP\\Udemy\\API\\CodePulse.API\\CodePulse.API\\CodePulse.API.csproj",
+  "projectFilePath": "E:\\Trainning\\Angular_ASP\\Udemy\\Angular_ASP.NET_sample\\API\\CodePulse.API\\CodePulse.API\\CodePulse.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\EPower\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\EPower\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
