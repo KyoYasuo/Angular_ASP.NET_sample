@@ -29,8 +29,7 @@ namespace CodePulse.API.Controllers
                 UrlHandle = request.UrlHandle,
             };
 
-            await dbContext.Categories.AddAsync(category);
-            await dbContext.SaveChangesAsync();
+
 
             // Domain model to DTO
 
